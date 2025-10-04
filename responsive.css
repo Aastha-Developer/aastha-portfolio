@@ -1,0 +1,455 @@
+@media (max-width: 1440px) and (min-width: 992px) {
+    .cus-container {
+        max-width: 84.028vw;
+        padding: 0 1.042vw;
+    }
+
+
+
+    /* Common Css */
+
+    .cus-content {
+        gap: 3.056vw;
+        width: 17.569vw;
+    }
+
+    .cus-content h2 {
+        font-size: 2.222vw;
+    }
+
+    .cus-content p {
+        font-size: 1.667vw;
+    }
+
+    .main-line {
+        width: 0.208vw;
+        left: 3.472vw;
+    }
+
+
+
+    /* Common Css */
+
+    .cus-header {
+        padding: 3.33vw 0;
+    }
+
+    .cus-header nav {
+        gap: 11.04vw;
+    }
+
+    .cus-header nav .logo {
+        gap: 1.04vw;
+    }
+
+    .cus-header nav .logo img {
+        max-width: 3.33vw;
+    }
+
+    .cus-header nav .logo span {
+        font-size: 2.5vw;
+    }
+
+    .cus-header nav ul {
+        gap: 2.22vw;
+    }
+
+    .cus-header nav ul li a {
+        font-size: 1.67vw;
+    }
+
+    .cus-header nav ul li .text-effect::before {
+        height: 0.69vw;
+        bottom: 0.28vw;
+    }
+
+
+    /* Banner Css */
+
+    .banner {
+        padding-bottom: 7.64vw;
+    }
+
+    .banner .banner-wrap .banner-left .profile {
+        gap: 0.83vw;
+        margin-bottom: 1.94vw;
+    }
+
+    .banner .banner-wrap .banner-left .profile h4 {
+        font-size: 2.22vw;
+    }
+
+    .banner .banner-wrap .banner-left h1 {
+        font-size: 4.44vw;
+        max-width: 32.92vw;
+    }
+
+    .banner .banner-wrap .banner-left h1 span::before {
+        height: 1.81vw;
+        bottom: 0.28vw;
+    }
+
+    .banner .banner-wrap .banner-right .content {
+        max-width: 33.13vw;
+    }
+
+    .banner .banner-wrap .banner-right p {
+        font-size: 1.67vw;
+        margin-bottom: 2.08vw;
+    }
+
+    .banner .banner-wrap .banner-right .hire-me-btn {
+        font-size: 1.67vw;
+        padding: 1.25vw 4.03vw;
+    }
+
+
+    /* What i do css */
+
+    .what-i-do .sec-heading {
+        gap: 2.5vw;
+    }
+
+    .what-i-do .sec-heading h2 {
+        font-size: 2.22vw;
+    }
+
+    .what-i-do .what-i-do-wrap {
+        gap: 2.78vw;
+        padding-top: 2.78vw;
+    }
+
+    .what-i-do .what-i-do-wrap .cus-card {
+        min-height: 31.39vw;
+        padding: 0 3.47vw;
+    }
+
+    .what-i-do .what-i-do-wrap .cus-card span {
+        font-size: 2.22vw;
+    }
+
+    .what-i-do .what-i-do-wrap .cus-card:nth-child(1) {
+        border: 0.35vw solid #EECD56;
+        border-radius: 0.56vw;
+    }
+
+    .what-i-do .what-i-do-wrap .cus-card:nth-child(1) span {
+        top: 5.90vw;
+        right: -2.08vw;
+    }
+
+    .what-i-do .what-i-do-wrap .cus-card:nth-child(2) {
+        border: 0.35vw solid #5AB5E8;
+        border-radius: 0.56vw;
+    }
+
+    .what-i-do .what-i-do-wrap .cus-card:nth-child(2) span {
+        top: -1.39vw;
+        right: 1.81vw;
+    }
+
+    .what-i-do .what-i-do-wrap .cus-card:nth-child(3) {
+        border: 0.35vw solid #F384D4;
+        border-radius: 0.56vw;
+    }
+
+    .what-i-do .what-i-do-wrap .cus-card:nth-child(3) span {
+        top: 6.60vw;
+        right: -2.08vw;
+    }
+
+    .what-i-do .what-i-do-wrap .cus-card .box h4 {
+        margin-top: 1.11vw;
+        font-size: 2.5vw;
+    }
+
+
+    /* Feature project css */
+
+    .feature-project {
+        padding-top: 10.07vw;
+    }
+
+    .feature-project .feature-project-wrap {
+        gap: 2.92vw;
+    }
+
+    .feature-project .cus-content {
+        margin-top: 8.19vw;
+    }
+
+    .feature-project .feature-project-wrap .feature-right .box-wrap {
+        gap: 2.36vw;
+    }
+
+    .feature-project .feature-project-wrap .feature-right .box-wrap .box {
+        border: 0.21vw solid #000000;
+        border-radius: 0.42vw;
+        padding: 1.39vw 1.53vw;
+    }
+
+    .feature-project .feature-project-wrap .feature-right .box-wrap .box .project-detail {
+        margin-top: 1.53vw;
+        gap: 2.57vw;
+    }
+
+    .feature-project .feature-project-wrap .feature-right .box-wrap .box .project-detail h4 {
+        font-size: 1.94vw;
+    }
+
+    .feature-project .feature-project-wrap .feature-right .box-wrap .box .project-detail button {
+        padding: 0.63vw 1.25vw;
+        font-size: 1.25vw;
+        line-height: 1.87vw;
+        border-radius: 0 2.08vw 2.08vw 2.08vw;
+    }
+
+    .feature-project .feature-project-wrap .feature-right .box-wrap .box:nth-child(1) button {
+        border: 0.14vw solid #DB4A90;
+    }
+
+    .feature-project .feature-project-wrap .feature-right .box-wrap .box:nth-child(2) button {
+        border: 0.14vw solid #1C6AB1;
+    }
+
+    .feature-project .feature-project-wrap .feature-right .box-wrap .box:nth-child(3) button {
+        border: 0.14vw solid #BB9C2A;
+    }
+
+    .feature-project .feature-project-wrap .feature-right .box-wrap .box:nth-child(4) button {
+        border: 0.14vw solid #4ED543;
+    }
+
+
+    /* Work experience css */
+
+    .work-experience {
+        padding-top: 17.01vw;
+        padding-bottom: 7.29vw;
+    }
+
+    .work-experience .work-experience-wrap .work-experience-right .line-1 {
+        height: 0.14vw;
+    }
+
+    .work-experience .work-experience-wrap .work-experience-right .line-2 {
+        width: 0.14vw;
+    }
+
+    .work-experience .work-experience-wrap .work-experience-right .line-3 {
+        height: 0.14vw;
+    }
+
+    .work-experience .work-experience-wrap .work-experience-right .line-4 {
+        width: 0.14vw;
+    }
+
+    .work-experience .work-experience-wrap .work-experience-right .work-box {
+        padding: 4.44vw 8.19vw 5.42vw 4.93vw;
+        gap: 2.57vw;
+    }
+
+    .work-experience .work-experience-wrap .work-experience-right .work-box .box {
+        gap: 2.57vw;
+    }
+
+    .work-experience .work-experience-wrap .work-experience-right .work-box .box .box-right .cus-content {
+        margin-top: 5.90vw;
+    }
+
+    .work-experience .work-experience-wrap .work-experience-right .work-box .box .box-left {
+        font-size: 3.33vw;
+        width: 6.60vw;
+        height: 6.11vw;
+        border-radius: 0.42vw;
+    }
+
+    .work-experience .work-experience-wrap .work-experience-right .work-box .box:nth-child(1) .box-left {
+        border: 0.14vw solid #EECD56;
+    }
+
+    .work-experience .work-experience-wrap .work-experience-right .work-box .box:nth-child(2) .box-left {
+        border: 0.14vw solid #5AB5E8;
+    }
+
+    .work-experience .work-experience-wrap .work-experience-right .work-box .box:nth-child(3) .box-left {
+        border: 0.14vw solid #F384D4;
+    }
+
+    .work-experience .work-experience-wrap .work-experience-right .work-box .box .box-right h4 {
+        font-size: 1.67vw;
+        margin-bottom: 0.42vw;
+    }
+
+    .work-experience .work-experience-wrap .work-experience-right .work-box .box .box-right p {
+        font-size: 1.25vw;
+        margin-bottom: 0.21vw;
+    }
+
+    .work-experience .work-experience-wrap .work-experience-right .work-box .box .box-right span {
+        font-size: 1.11vw;
+    }
+
+
+    /* Contact me css */
+
+    .contact-me {
+        padding-top: 10.07vw;
+        padding-bottom: 10.97vw;
+    }
+
+    .contact-me .cus-content {
+        margin-top: 1.74vw;
+    }
+
+    .contact-me .contact-me-wrap .contact-right {
+        max-width: 42.36vw;
+    }
+
+    .contact-me .contact-me-wrap .contact-right .cus-form .cus-field {
+        margin-bottom: 4.17vw;
+    }
+
+    .contact-me .contact-me-wrap .contact-right .cus-form .cus-field label {
+        font-size: 2.22vw;
+        border-left: 0.14vw solid #0C0C0C;
+        padding: 0 0.35vw;
+    }
+
+    .contact-me .contact-me-wrap .contact-right .cus-form .cus-field input {
+        border-bottom: 0.14vw solid #000000;
+        padding: 0 1.04vw;
+        font-size: 1.94vw;
+    }
+
+    .contact-me .contact-me-wrap .contact-right .cus-form button {
+        padding: 1.39vw 2.92vw;
+        font-size: 1.67vw;
+    }
+
+
+    /* Footer css */
+
+    .footer {
+        padding: 6.39vw 0 2.43vw;
+        border-top: 0.21vw solid #0C0C0C;
+    }
+
+    .footer .footer-wrap {
+        padding-left: 2.08vw;
+    }
+
+    .footer .footer-wrap .logo {
+        gap: 1.04vw;
+    }
+
+    .footer .footer-wrap .logo img {
+        max-width: 3.33vw;
+    }
+
+    .footer .footer-wrap .logo span {
+        font-size: 2.5vw;
+    }
+
+    .footer .footer-wrap .footer-right ul {
+        gap: 5.35vw;
+        margin-bottom: 2.78vw;
+    }
+
+    .footer .footer-wrap .footer-right ul li a {
+        font-size: 2.22vw;
+    }
+
+    .footer .footer-wrap .footer-right p {
+        font-size: 1.67vw;
+    }
+
+}
+
+
+@media (max-width: 991px) {
+
+    .cus-header nav {
+        justify-content: space-between;
+        padding-left: 43px;
+    }
+
+    .main-line {
+        left: 20px;
+        overflow-x: hidden;
+    }
+
+    main {
+        padding-left: 43px;
+    }
+
+    .banner .banner-wrap {
+        grid-template-columns: 1fr;
+        gap: 18px;
+    }
+
+    .banner .banner-wrap .banner-left .profile {
+        margin-bottom: 32px;
+    }
+
+    .banner .banner-wrap .banner-right .content {
+        margin-left: unset;
+    }
+
+    .what-i-do .what-i-do-wrap {
+        grid-template-columns: 1fr;
+    }
+
+    .feature-project .feature-project-wrap {
+        flex-direction: column;
+    }
+
+    .work-experience {
+        padding-bottom: 75px;
+    }
+
+    .work-experience .work-experience-wrap {
+        flex-direction: column;
+    }
+
+    .work-experience .work-experience-wrap .work-experience-right .line-1,
+    .work-experience .work-experience-wrap .work-experience-right .line-2,
+    .work-experience .work-experience-wrap .work-experience-right .line-3,
+    .work-experience .work-experience-wrap .work-experience-right .line-4 {
+        display: none;
+    }
+
+    .contact-me {
+        padding-top: 0;
+    }
+
+    .contact-me .contact-me-wrap {
+        flex-direction: column;
+        gap: 35px;
+    }
+
+    .cus-content img {
+        margin-left: unset;
+        transform: rotate(276deg);
+    }
+
+    .work-experience .work-experience-wrap .work-experience-right .work-box {
+        padding: 30px 0;
+    }
+}
+
+
+@media (max-width: 767px) {
+    .cus-header nav ul li {
+        white-space: nowrap;
+    }
+
+    .feature-project .feature-project-wrap .feature-right .box-wrap {
+        grid-template-columns: 1fr;
+    }
+
+    .footer .footer-wrap {
+        flex-direction: column;
+        gap: 38px;
+    }
+}
